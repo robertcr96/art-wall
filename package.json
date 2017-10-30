@@ -1,0 +1,12 @@
+{
+  "name": "art-wall",
+  "version": "1.0.0",
+  "description": "Volume in drive E has no label.\r  Volume Serial Number is C655-BD29",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
